@@ -1,0 +1,17 @@
+C:\Users\Martin\Desktop\Proyectos VB.Net\FattElett\FattElett.exe.config
+C:\Users\Martin\Desktop\Proyectos VB.Net\FattElett\FattElett.exe
+C:\Users\Martin\Desktop\Proyectos VB.Net\FattElett\FattElett.pdb
+C:\Users\Martin\source\repos\FattElettTest\FattElettTest\obj\Debug\FattPrintF.AnnFatt.resources
+C:\Users\Martin\source\repos\FattElettTest\FattElettTest\obj\Debug\FattPrintF.Form1.resources
+C:\Users\Martin\source\repos\FattElettTest\FattElettTest\obj\Debug\FattElett.Properties.Resources.resources
+C:\Users\Martin\source\repos\FattElettTest\FattElettTest\obj\Debug\FattPrintF.RagSoc1.resources
+C:\Users\Martin\source\repos\FattElettTest\FattElettTest\obj\Debug\FattElett.Repilogo.resources
+C:\Users\Martin\source\repos\FattElettTest\FattElettTest\obj\Debug\FattElettTest.csproj.GenerateResource.cache
+C:\Users\Martin\source\repos\FattElettTest\FattElettTest\obj\Debug\FattElettTest.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\FattElettTest\FattElettTest\obj\Debug\FattElettTest.csproj.CopyComplete
+C:\Users\Martin\source\repos\FattElettTest\FattElettTest\obj\Debug\FattElett.exe
+C:\Users\Martin\source\repos\FattElettTest\FattElettTest\obj\Debug\FattElett.pdb
+C:\Users\Martin\Desktop\Proyectos VB.Net\FattElett2.0\FattElett.exe.config
+C:\Users\Martin\Desktop\Proyectos VB.Net\FattElett2.0\FattElett.exe
+C:\Users\Martin\Desktop\Proyectos VB.Net\FattElett2.0\FattElett.pdb
+C:\Users\Martin\source\repos\FattElettTest\FattElettTest\obj\Debug\FattElettTest.csprojAssemblyReference.cache

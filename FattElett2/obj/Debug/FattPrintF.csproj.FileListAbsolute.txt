@@ -1,0 +1,18 @@
+C:\Users\Martin\source\repos\FattPrintF\FattPrintF\obj\Debug\FattPrintF.Form1.resources
+C:\Users\Martin\source\repos\FattPrintF\FattPrintF\obj\Debug\FattPrintF.Properties.Resources.resources
+C:\Users\Martin\source\repos\FattPrintF\FattPrintF\obj\Debug\FattPrintF.csproj.GenerateResource.cache
+C:\Users\Martin\source\repos\FattPrintF\FattPrintF\obj\Debug\FattPrintF.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\FattPrintF\FattPrintF\bin\Debug\FattPrintF.exe.config
+C:\Users\Martin\source\repos\FattPrintF\FattPrintF\bin\Debug\FattPrintF.exe
+C:\Users\Martin\source\repos\FattPrintF\FattPrintF\bin\Debug\FattPrintF.pdb
+C:\Users\Martin\source\repos\FattPrintF\FattPrintF\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Martin\source\repos\FattPrintF\FattPrintF\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\Martin\source\repos\FattPrintF\FattPrintF\obj\Debug\FattPrintF.csproj.CopyComplete
+C:\Users\Martin\source\repos\FattPrintF\FattPrintF\obj\Debug\FattPrintF.exe
+C:\Users\Martin\source\repos\FattPrintF\FattPrintF\obj\Debug\FattPrintF.pdb
+C:\Users\Martin\Desktop\Proyectos VB.Net\FattPrintF\FattPrintF.exe.config
+C:\Users\Martin\Desktop\Proyectos VB.Net\FattPrintF\FattPrintF.exe
+C:\Users\Martin\Desktop\Proyectos VB.Net\FattPrintF\FattPrintF.pdb
+C:\Users\Martin\source\repos\FattPrintF\FattPrintF\obj\Debug\FattPrintF.AnnFatt.resources
+C:\Users\Martin\source\repos\FattPrintF\FattPrintF\obj\Debug\FattPrintF.RagSoc1.resources
+C:\Users\Martin\source\repos\FattPrintF\FattPrintF\obj\Debug\FattPrintF.csprojAssemblyReference.cache

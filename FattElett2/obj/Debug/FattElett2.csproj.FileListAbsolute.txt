@@ -1,0 +1,32 @@
+C:\Users\Martin\Desktop\Proyectos VB.Net\FattElett2.0\FattElett.exe
+C:\Users\Martin\Desktop\Proyectos VB.Net\FattElett2.0\FattElett.exe.config
+C:\Users\Martin\source\repos\FattElett2\FattElett2\obj\Debug\FattPrintF.AnnFatt.resources
+C:\Users\Martin\source\repos\FattElett2\FattElett2\obj\Debug\FattPrintF.Form1.resources
+C:\Users\Martin\source\repos\FattElett2\FattElett2\obj\Debug\FattElett.Impostazione.resources
+C:\Users\Martin\source\repos\FattElett2\FattElett2\obj\Debug\FattElett.Properties.Resources.resources
+C:\Users\Martin\source\repos\FattElett2\FattElett2\obj\Debug\FattPrintF.RagSoc1.resources
+C:\Users\Martin\source\repos\FattElett2\FattElett2\obj\Debug\FattElett.Repilogo.resources
+C:\Users\Martin\source\repos\FattElett2\FattElett2\obj\Debug\FattElett2.csproj.GenerateResource.cache
+C:\Users\Martin\source\repos\FattElett2\FattElett2\obj\Debug\FattElett2.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\FattElett2\FattElett2\obj\Debug\FattElett2.csproj.CopyComplete
+C:\Users\Martin\source\repos\FattElett2\FattElett2\obj\Debug\FattElett.exe
+C:\Users\Martin\source\repos\FattElett2\FattElett2\obj\Debug\FattElett.pdb
+C:\Users\Martin\Desktop\Proyectos VB.Net\FattElett2.0\FattElett.pdb
+C:\Proyectos VB.Net\FattElett2.0\FattElett.exe.config
+C:\Proyectos VB.Net\FattElett2.0\FattElett.exe
+C:\Proyectos VB.Net\FattElett2.0\FattElett.pdb
+C:\Users\Martin\source\repos\FattElett2\FattElett2\obj\Debug\FattElett2.csprojAssemblyReference.cache
+C:\Users\Martin\Source\Repos\Larrydevc\FatturazioneElettronica\FattElett2\obj\Debug\FattPrintF.AnnFatt.resources
+C:\Users\Martin\Source\Repos\Larrydevc\FatturazioneElettronica\FattElett2\obj\Debug\FattPrintF.Form1.resources
+C:\Users\Martin\Source\Repos\Larrydevc\FatturazioneElettronica\FattElett2\obj\Debug\FattElett.Impostazione.resources
+C:\Users\Martin\Source\Repos\Larrydevc\FatturazioneElettronica\FattElett2\obj\Debug\FattElett.Properties.Resources.resources
+C:\Users\Martin\Source\Repos\Larrydevc\FatturazioneElettronica\FattElett2\obj\Debug\FattPrintF.RagSoc1.resources
+C:\Users\Martin\Source\Repos\Larrydevc\FatturazioneElettronica\FattElett2\obj\Debug\FattElett.Repilogo.resources
+C:\Users\Martin\Source\Repos\Larrydevc\FatturazioneElettronica\FattElett2\obj\Debug\FattElett2.csproj.GenerateResource.cache
+C:\Users\Martin\Source\Repos\Larrydevc\FatturazioneElettronica\FattElett2\obj\Debug\FattElett2.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Source\Repos\Larrydevc\FatturazioneElettronica\FattElett2\obj\Debug\FattElett.exe
+C:\Users\Martin\Source\Repos\Larrydevc\FatturazioneElettronica\FattElett2\obj\Debug\FattElett.pdb
+\\MARTIN\c\Proyectos VB.Net\FatturazioneElettronica\Output\FattElett.exe.config
+\\MARTIN\c\Proyectos VB.Net\FatturazioneElettronica\Output\FattElett.exe
+\\MARTIN\c\Proyectos VB.Net\FatturazioneElettronica\Output\FattElett.pdb
+C:\Users\Martin\Source\Repos\Larrydevc\FatturazioneElettronica\FattElett2\obj\Debug\FattElett2.csproj.CopyComplete

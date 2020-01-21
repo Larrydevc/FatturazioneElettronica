@@ -1,0 +1,25 @@
+C:\Users\Martin\source\repos\FattPrintF\FattPrintF\obj\Debug\FattPrintF.AnnFatt.resources
+C:\Users\Martin\source\repos\FattPrintF\FattPrintF\obj\Debug\FattPrintF.Form1.resources
+C:\Users\Martin\source\repos\FattPrintF\FattPrintF\obj\Debug\FattElett.Properties.Resources.resources
+C:\Users\Martin\source\repos\FattPrintF\FattPrintF\obj\Debug\FattPrintF.RagSoc1.resources
+C:\Users\Martin\source\repos\FattPrintF\FattPrintF\obj\Debug\FattElett.csproj.GenerateResource.cache
+C:\Users\Martin\source\repos\FattPrintF\FattPrintF\obj\Debug\FattElett.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\FattPrintF\FattPrintF\obj\Debug\FattElett.csproj.CopyComplete
+C:\Users\Martin\source\repos\FattPrintF\FattPrintF\obj\Debug\FattElett.exe
+C:\Users\Martin\source\repos\FattPrintF\FattPrintF\obj\Debug\FattElett.pdb
+C:\Users\Martin\source\repos\FattPrintF\FattPrintF\obj\Debug\FattElett.exe.config
+C:\Users\Martin\source\repos\FattPrintF\FattPrintF\obj\Debug\FattElett.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\Proyectos VB.Net\FattElett\FattElett.exe.config
+C:\Users\Martin\Desktop\Proyectos VB.Net\FattElett\FattElett.exe
+C:\Users\Martin\Desktop\Proyectos VB.Net\FattElett\FattElett.pdb
+C:\Users\Martin\source\repos\FattElett\FattElett\obj\Debug\FattPrintF.AnnFatt.resources
+C:\Users\Martin\source\repos\FattElett\FattElett\obj\Debug\FattPrintF.Form1.resources
+C:\Users\Martin\source\repos\FattElett\FattElett\obj\Debug\FattElett.Properties.Resources.resources
+C:\Users\Martin\source\repos\FattElett\FattElett\obj\Debug\FattPrintF.RagSoc1.resources
+C:\Users\Martin\source\repos\FattElett\FattElett\obj\Debug\FattElett.Repilogo.resources
+C:\Users\Martin\source\repos\FattElett\FattElett\obj\Debug\FattElett.csproj.GenerateResource.cache
+C:\Users\Martin\source\repos\FattElett\FattElett\obj\Debug\FattElett.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\FattElett\FattElett\obj\Debug\FattElett.csproj.CopyComplete
+C:\Users\Martin\source\repos\FattElett\FattElett\obj\Debug\FattElett.exe
+C:\Users\Martin\source\repos\FattElett\FattElett\obj\Debug\FattElett.pdb
+C:\Users\Martin\source\repos\FattElett\FattElett\obj\Debug\FattElett.csprojAssemblyReference.cache
